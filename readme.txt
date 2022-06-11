@@ -8,7 +8,13 @@ in terminal:
 
     .venv/Scripts/Activate
 
-    pip install jupyter pandas seaborn scikit-learn keras tensorflow
+    pip install jupyter 
+    pip install pandas 
+    pip install seaborn 
+    pip install scikit-learn 
+    pip install matlotlib
+    pip install keras 
+    pip install tensorflow
 
 ctrl+shift+p
 
