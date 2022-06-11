@@ -15,7 +15,3 @@ in terminal:
     pip install matlotlib
     pip install keras 
     pip install tensorflow
-
-ctrl+shift+p
-
-jupyter: create new notebook
